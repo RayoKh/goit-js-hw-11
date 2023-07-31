@@ -1,5 +1,5 @@
 import PixabayApi from './js/pixabay-api.js';
-import { markupCreator } from './js/markup.js';
+import { markupCreator } from './js/markup-creator.js';
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
 
 const refs = {
